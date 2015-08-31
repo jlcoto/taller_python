@@ -34,18 +34,18 @@ Una vez que ya tengas todos los paquetes de anaconda descargados, anda al reposi
 Descomprime el archivo en la carpeta que desees. Te recomiendo, por simplicidad que descomprimas el archivo en tu escritorio. Ahora se viene la parte "divertida". En tu buscador escribe "cmd". 
 
 <div class="postal-image">
-<img src="{{site.url}}/img/segundo.png" >
+<img src="{{ site.baseurl }}/img/segundo.png" >
 </div>
 Se va a activar una consola donde tendrás que escribir algunos comandos. Lo primero que tienes que hacer es asegurarte que estás en el directorio de tu Escritorio. Para eso escribe el siguiente comando `cd Desktop`. Ahora que estás dentro del fichero Desktop, tendrás que entrar a la carpeta del archivo que acabas de decargar y descomprimir. Para esto escribe nuevamente `cd taller_politai-master`. Ahora que estés en la carpeta indicada tienes que escribir `ipython notebook`.
 
 <div class="postal-image">
-<img src="{{site.url}}/img/tercero.png" >
+<img src="{{ site.baseurl }}/img/tercero.png" >
 </div>
 
 Sabrás que todo funciona de manera correcta si luego de ejecutar el código se abre tu navegador con la siguiente página web:
 
 <div class="postal-image">
-<img  src="{{site.url}}/img/cuarto.png"  >
+<img  src="{{ site.baseurl }}/img/cuarto.png"  >
 </div>
 
 _Si quieres saber un poco más acerca de cómo utilizar la línea de comandos de Windows, revisa esta [página](http://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/)_
@@ -55,21 +55,21 @@ _Si quieres saber un poco más acerca de cómo utilizar la línea de comandos de
 Una vez descargado el fichero de github y descomprimido, necesitaremos abrir un terminal. Para esto solo tienes que hacer click en la lupa que se encuentra en la parte superior derecha de tu pantalla o presionar `cmd + barra espaciadora`. 
 
 <div class="postal-image">
-<img  src="{{site.url}}/img/quinto.png"  >
+<img  src="{{ site.baseurl }}/img/quinto.png"  >
 </div>
 
 
 Abre una sesión en tu terminal y encuentra la carpeta que acabas de descomprimir. Este ejemplo supone que ha sido guardado en el Desktop. Asegúrate que estas en el "Home" tipeando `cd ~` (la tilde ~ la consigues con alt + Ñ). Una vez ahí entra a tu Desktop con `cd Desktop` e ingresa a la carperta taller_politai-master con `cd taller_politai-master`. 
 
 <div class="postal-image">
-<img  src="{{site.url}}/img/sexto.png"  >
+<img  src="{{ site.baseurl }}/img/sexto.png"  >
 </div>
 
 
 Una vez ahí escribe `ipython notebooks` y una página web con el contenido de la primera sesión debe mostrarse.
 
 <div class="postal-image">
-<img  src="{{site.url}}/img/setimo.png"  >
+<img  src="{{ site.baseurl }}/img/setimo.png"  >
 </div>
 
 Puedes aprender un poco más a utilizar la linea de comandos o command line [aquí](http://cli.learncodethehardway.org/book/).

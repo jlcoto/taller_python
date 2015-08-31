@@ -5,7 +5,7 @@ author: Jose
 ---
 
 
-El contenido del curso está disponible [aquí]({{ site.url }}/downloads/Taller_Python_Extraccion_web.pdf). 
+El contenido del curso está disponible [aquí]({{ site.baseurl }}/downloads/Taller_Python_Extraccion_web.pdf). 
 
 Como verán pronto, usaremos para nuestras clases los `IPython notebooks`. Por favor, asegúrate de haber descargado los notebooks de la primera sesión. Sigue las instrucciones de XXX y XXX.
 
