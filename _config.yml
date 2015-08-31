@@ -1,0 +1,29 @@
+# Site settings
+title: Taller Python - Blog de acompañamiento del taller de Python. 
+email: coolwebconfs@gmail.com
+description: Blog de acompañamiento del taller de Python para extracción de Datos Web.
+#url: "http://taller_python.me"
+twitter_username: jcoto
+paginate: 4
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default Settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Jose"
+      categories: "conference"
+      layout: "post"
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

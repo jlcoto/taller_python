@@ -1,0 +1,16 @@
+---	
+title:  "Temario"
+image: camp-sass.jpg
+author: Jose
+---
+
+
+El contenido del curso está disponible [aquí]({{ site.url }}/downloads/Taller_Python_Extraccion_web.pdf). 
+
+Como verán pronto, usaremos para nuestras clases los `IPython notebooks`. Por favor, asegúrate de haber descargado los notebooks de la primera sesión. Sigue las instrucciones de XXX y XXX.
+
+__Nota que la descarga de Python y sus complementos puede tomar aproximadamente una hora. Asegúrate de tener todo descargado y funcionando para el inicio de clases. El taller es bastante intenso y trataré de cubrir bastantes cosas. No nos podemos detener a revisar problemas de instalación individuales.__
+
+Trataré de tener los notebooks disponibles el viernes para que puedan descargarlos y verifiquen que funcionan sin problemas en su computadora. 
+
+Las respuestas de los ejercicios de cada sesión serán publicados al final de cada clase. Las respuestas a las tareas las tendrán el viernes previo a la siguiente sesión. Tendrán una semana para tratar de hacer los ejercicios por su cuenta.
