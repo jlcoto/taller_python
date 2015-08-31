@@ -6,7 +6,7 @@ author: Jose
 
 El contenido del curso está disponible [aquí]({{ site.baseurl }}/downloads/Taller_Python_Extraccion_web.pdf). 
 
-Como verán pronto, usaremos para nuestras clases los `IPython notebooks`. Por favor, asegúrate de haber descargado los notebooks de la primera sesión. Sigue las instrucciones de XXX y XXX.
+Como verán pronto, usaremos para nuestras clases los `IPython notebooks`. Por favor, asegúrate de haber descargado los notebooks de la primera sesión. Sigue las instrucciones del post [Descarga de clases]({{ site.baseurl }}/github)
 
 __Nota que la descarga de Python y sus complementos puede tomar aproximadamente una hora. Asegúrate de tener todo descargado y funcionando para el inicio de clases. El taller es bastante intenso y trataré de cubrir bastantes cosas. No nos podemos detener a revisar problemas de instalación individuales.__
 
