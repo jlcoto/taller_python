@@ -29,7 +29,7 @@ A continuación, encontrarás las instrucciones para Windows y Mac.
 Una vez que ya tengas todos los paquetes de anaconda descargados, anda al repositorio donde encontrarás los archivos que vamos a usar. Verás que en la parte inferior derecha hay dos botones: "Clone in Desktop" y "Download ZIP". Haz click en este último botón.
 
 <div class="postal-image"> 
-<img src="{{site.url}}/img/primero.png" >
+<img src="{{ site.baseurl }}/img/primero.png" >
 </div>
 Descomprime el archivo en la carpeta que desees. Te recomiendo, por simplicidad que descomprimas el archivo en tu escritorio. Ahora se viene la parte "divertida". En tu buscador escribe "cmd". 
 
