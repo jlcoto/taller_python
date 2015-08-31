@@ -1,6 +1,5 @@
 ---	
 title:  "Temario"
-image: camp-sass.jpg
 author: Jose
 ---
 
