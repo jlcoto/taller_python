@@ -36,7 +36,7 @@ Descomprime el archivo en la carpeta que desees. Te recomiendo, por simplicidad 
 <div class="postal-image">
 <img src="{{ site.baseurl }}/img/segundo.png" >
 </div>
-Se va a activar una consola donde tendrás que escribir algunos comandos. Lo primero que tienes que hacer es asegurarte que estás en el directorio de tu Escritorio. Para eso escribe el siguiente comando `cd Desktop`. Ahora que estás dentro del fichero Desktop, tendrás que entrar a la carpeta del archivo que acabas de decargar y descomprimir. Para esto escribe nuevamente `cd taller_politai-master`. Ahora que estés en la carpeta indicada tienes que escribir `ipython notebook`.
+Se va a activar una consola donde tendrás que escribir algunos comandos. Lo primero que tienes que hacer es asegurarte que estás en el directorio de tu Escritorio. Para eso escribe el siguiente comando `cd Desktop`. Ahora que estás dentro del fichero Desktop, tendrás que entrar a la carpeta del archivo que acabas de decargar y descomprimir. Para esto escribe nuevamente `cd taller_politai-master`. Ahora que estás en la carpeta indicada tienes que escribir `ipython notebook`.
 
 <div class="postal-image">
 <img src="{{ site.baseurl }}/img/tercero.png" >
@@ -52,7 +52,7 @@ _Si quieres saber un poco más acerca de cómo utilizar la línea de comandos de
 
 ##MAC
 
-Una vez descargado el fichero de github y descomprimido, necesitaremos abrir un terminal. Para esto solo tienes que hacer click en la lupa que se encuentra en la parte superior derecha de tu pantalla o presionar `cmd + barra espaciadora`. 
+Una vez descargado el fichero de github y descomprimido, necesitaremos abrir un terminal. Para esto solo tienes que hacer click en la lupa que se encuentra en la parte superior derecha de tu pantalla o presionar `cmd + barra espaciadora`. Escribe "terminal" y presiona enter.
 
 <div class="postal-image">
 <img  src="{{ site.baseurl }}/img/quinto.png"  >
@@ -72,5 +72,5 @@ Una vez ahí escribe `ipython notebooks` y una página web con el contenido de l
 <img  src="{{ site.baseurl }}/img/setimo.png"  >
 </div>
 
-Puedes aprender un poco más a utilizar la linea de comandos o command line [aquí](http://cli.learncodethehardway.org/book/).
+Puedes aprender un poco más de la linea de comandos o command line [aquí](http://cli.learncodethehardway.org/book/).
 
