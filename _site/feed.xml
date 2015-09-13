@@ -3,11 +3,28 @@
   <channel>
     <title>Taller Python - Blog de acompañamiento del taller de Python.</title>
     <description>Blog de acompañamiento del taller de Python para extracción de Datos Web.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Aug 2015 16:48:36 -0500</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2015 16:48:36 -0500</lastBuildDate>
+    <link>http://taller_python.me/taller_python/</link>
+    <atom:link href="http://taller_python.me/taller_python/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Sep 2015 13:09:00 -0500</pubDate>
+    <lastBuildDate>Sun, 13 Sep 2015 13:09:00 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Solucionario</title>
+        <description>&lt;p&gt;Pueden encontrar el solucionario de la primera sesión en mi &lt;a href=&quot;https://github.com/jlcoto/taller_politai&quot;&gt;repositorio de github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El próximo viernes subiré la respuesta a la tarea para que puedan comparar sus resultados.&lt;/p&gt;
+
+&lt;p&gt;Hasta el sábado.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://taller_python.me/taller_python/solucionario</link>
+        <guid isPermaLink="true">http://taller_python.me/taller_python/solucionario</guid>
+        
+        
+        <category>conference</category>
+        
+      </item>
     
       <item>
         <title>Descarga de Clases</title>
@@ -33,53 +50,53 @@ div.postal-image {
 &lt;p&gt;Una vez que ya tengas todos los paquetes de anaconda descargados, anda al repositorio donde encontrarás los archivos que vamos a usar. Verás que en la parte inferior derecha hay dos botones: “Clone in Desktop” y “Download ZIP”. Haz click en este último botón.&lt;/p&gt;
 
 &lt;div class=&quot;postal-image&quot;&gt; 
-&lt;img src=&quot;/img/primero.png&quot; /&gt;
+&lt;img src=&quot;/taller_python/img/primero.png&quot; /&gt;
 &lt;/div&gt;
 &lt;p&gt;Descomprime el archivo en la carpeta que desees. Te recomiendo, por simplicidad que descomprimas el archivo en tu escritorio. Ahora se viene la parte “divertida”. En tu buscador escribe “cmd”.&lt;/p&gt;
 
 &lt;div class=&quot;postal-image&quot;&gt;
-&lt;img src=&quot;/img/segundo.png&quot; /&gt;
+&lt;img src=&quot;/taller_python/img/segundo.png&quot; /&gt;
 &lt;/div&gt;
-&lt;p&gt;Se va a activar una consola donde tendrás que escribir algunos comandos. Lo primero que tienes que hacer es asegurarte que estás en el directorio de tu Escritorio. Para eso escribe el siguiente comando &lt;code&gt;cd Desktop&lt;/code&gt;. Ahora que estás dentro del fichero Desktop, tendrás que entrar a la carpeta del archivo que acabas de decargar y descomprimir. Para esto escribe nuevamente &lt;code&gt;cd taller_politai-master&lt;/code&gt;. Ahora que estés en la carpeta indicada tienes que escribir &lt;code&gt;ipython notebook&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Se va a activar una consola donde tendrás que escribir algunos comandos. Lo primero que tienes que hacer es asegurarte que estás en el directorio de tu Escritorio. Para eso escribe el siguiente comando &lt;code&gt;cd Desktop&lt;/code&gt;. Ahora que estás dentro del fichero Desktop, tendrás que entrar a la carpeta del archivo que acabas de decargar y descomprimir. Para esto escribe nuevamente &lt;code&gt;cd taller_politai-master&lt;/code&gt;. Ahora que estás en la carpeta indicada tienes que escribir &lt;code&gt;ipython notebook&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;postal-image&quot;&gt;
-&lt;img src=&quot;/img/tercero.png&quot; /&gt;
+&lt;img src=&quot;/taller_python/img/tercero.png&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Sabrás que todo funciona de manera correcta si luego de ejecutar el código se abre tu navegador con la siguiente página web:&lt;/p&gt;
 
 &lt;div class=&quot;postal-image&quot;&gt;
-&lt;img src=&quot;/img/cuarto.png&quot; /&gt;
+&lt;img src=&quot;/taller_python/img/cuarto.png&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;em&gt;Si quieres saber un poco más acerca de cómo utilizar la línea de comandos de Windows, revisa esta &lt;a href=&quot;http://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/&quot;&gt;página&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;mac&quot;&gt;MAC&lt;/h2&gt;
 
-&lt;p&gt;Una vez descargado el fichero de github y descomprimido, necesitaremos abrir un terminal. Para esto solo tienes que hacer click en la lupa que se encuentra en la parte superior derecha de tu pantalla o presionar &lt;code&gt;cmd + barra espaciadora&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Una vez descargado el fichero de github y descomprimido, necesitaremos abrir un terminal. Para esto solo tienes que hacer click en la lupa que se encuentra en la parte superior derecha de tu pantalla o presionar &lt;code&gt;cmd + barra espaciadora&lt;/code&gt;. Escribe “terminal” y presiona enter.&lt;/p&gt;
 
 &lt;div class=&quot;postal-image&quot;&gt;
-&lt;img src=&quot;/img/quinto.png&quot; /&gt;
+&lt;img src=&quot;/taller_python/img/quinto.png&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Abre una sesión en tu terminal y encuentra la carpeta que acabas de descomprimir. Este ejemplo supone que ha sido guardado en el Desktop. Asegúrate que estas en el “Home” tipeando &lt;code&gt;cd ~&lt;/code&gt; (la tilde ~ la consigues con alt + Ñ). Una vez ahí entra a tu Desktop con &lt;code&gt;cd Desktop&lt;/code&gt; e ingresa a la carperta taller_politai-master con &lt;code&gt;cd taller_politai-master&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;postal-image&quot;&gt;
-&lt;img src=&quot;/img/sexto.png&quot; /&gt;
+&lt;img src=&quot;/taller_python/img/sexto.png&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Una vez ahí escribe &lt;code&gt;ipython notebooks&lt;/code&gt; y una página web con el contenido de la primera sesión debe mostrarse.&lt;/p&gt;
 
 &lt;div class=&quot;postal-image&quot;&gt;
-&lt;img src=&quot;/img/setimo.png&quot; /&gt;
+&lt;img src=&quot;/taller_python/img/setimo.png&quot; /&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Puedes aprender un poco más a utilizar la linea de comandos o command line &lt;a href=&quot;http://cli.learncodethehardway.org/book/&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Puedes aprender un poco más de la linea de comandos o command line &lt;a href=&quot;http://cli.learncodethehardway.org/book/&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 23 Aug 2015 00:00:00 -0500</pubDate>
-        <link>/github</link>
-        <guid isPermaLink="true">/github</guid>
+        <link>http://taller_python.me/taller_python/github</link>
+        <guid isPermaLink="true">http://taller_python.me/taller_python/github</guid>
         
         
         <category>conference</category>
@@ -94,8 +111,8 @@ div.postal-image {
 
 </description>
         <pubDate>Mon, 17 Aug 2015 00:00:00 -0500</pubDate>
-        <link>/python_descarga</link>
-        <guid isPermaLink="true">/python_descarga</guid>
+        <link>http://taller_python.me/taller_python/python_descarga</link>
+        <guid isPermaLink="true">http://taller_python.me/taller_python/python_descarga</guid>
         
         
         <category>conference</category>
@@ -104,9 +121,9 @@ div.postal-image {
     
       <item>
         <title>Temario</title>
-        <description>&lt;p&gt;El contenido del curso está disponible &lt;a href=&quot;/downloads/Taller_Python_Extraccion_web.pdf&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;El contenido del curso está disponible &lt;a href=&quot;/taller_python/downloads/Taller_Python_Extraccion_web.pdf&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Como verán pronto, usaremos para nuestras clases los &lt;code&gt;IPython notebooks&lt;/code&gt;. Por favor, asegúrate de haber descargado los notebooks de la primera sesión. Sigue las instrucciones de XXX y XXX.&lt;/p&gt;
+&lt;p&gt;Como verán pronto, usaremos para nuestras clases los &lt;code&gt;IPython notebooks&lt;/code&gt;. Por favor, asegúrate de haber descargado los notebooks de la primera sesión. Sigue las instrucciones del post &lt;a href=&quot;/taller_python/github&quot;&gt;Descarga de clases&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Nota que la descarga de Python y sus complementos puede tomar aproximadamente una hora. Asegúrate de tener todo descargado y funcionando para el inicio de clases. El taller es bastante intenso y trataré de cubrir bastantes cosas. No nos podemos detener a revisar problemas de instalación individuales.&lt;/strong&gt;&lt;/p&gt;
 
@@ -115,8 +132,8 @@ div.postal-image {
 &lt;p&gt;Las respuestas de los ejercicios de cada sesión serán publicados al final de cada clase. Las respuestas a las tareas las tendrán el viernes previo a la siguiente sesión. Tendrán una semana para tratar de hacer los ejercicios por su cuenta.&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Aug 2015 00:00:00 -0500</pubDate>
-        <link>/temario</link>
-        <guid isPermaLink="true">/temario</guid>
+        <link>http://taller_python.me/taller_python/temario</link>
+        <guid isPermaLink="true">http://taller_python.me/taller_python/temario</guid>
         
         
         <category>conference</category>
@@ -133,8 +150,8 @@ div.postal-image {
 
 </description>
         <pubDate>Fri, 14 Aug 2015 00:00:00 -0500</pubDate>
-        <link>/bienvenida</link>
-        <guid isPermaLink="true">/bienvenida</guid>
+        <link>http://taller_python.me/taller_python/bienvenida</link>
+        <guid isPermaLink="true">http://taller_python.me/taller_python/bienvenida</guid>
         
         
         <category>conference</category>
